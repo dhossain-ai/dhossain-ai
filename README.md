@@ -23,6 +23,17 @@
   
 </div>
 
+<br />
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shahadat99x&show_icons=true&theme=transparent&hide_border=true&title_color=0075FF&text_color=FFF&icon_color=0075FF&count_private=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=transparent&hide_border=true&title_color=0075FF&text_color=FFF&icon_color=0075FF" height="150" alt="streak graph" />
+  </div>
+</div>
+
+<br />
+
 ## 🚀 Featured Projects
 
 | Project | Description | Links |
