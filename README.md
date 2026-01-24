@@ -1,7 +1,6 @@
 <div align="center">
   
-  <h1 align="center">Shahadat Hossain</h1>
-  <h3 align="center">Full-Stack Developer | Applied AI Student</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Shahadat+Hossain;Full-Stack+Developer;Applied+AI+Student;Building+Next.js+%26+Flutter+Apps" alt="Typing SVG" />
 
   <p align="center">
     Building web platforms, admin dashboards, and Flutter Android apps. Growing into AI/ML with Python.
@@ -26,10 +25,12 @@
 <br />
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shahadat99x&show_icons=true&theme=transparent&hide_border=true&title_color=0075FF&text_color=FFF&icon_color=0075FF&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=transparent&hide_border=true&title_color=0075FF&text_color=FFF&icon_color=0075FF" height="150" alt="streak graph" />
-  </div>
+  <a href="https://github.com/Shahadat99x">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahadat99x&show_icons=true&theme=nightowl&hide_border=true&title_color=0075FF&text_color=FFF&icon_color=0075FF&count_private=true&disable_animations=false" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Shahadat99x">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=nightowl&hide_border=true" height="150" alt="streak graph" />
+  </a>
 </div>
 
 <br />
@@ -84,13 +85,16 @@
 
 <br />
 
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center"> 
+  <h2>🐍 Contributions</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br />
+  <i>(Note: This animation will appear once the GitHub Action runs on the profile repo)</i>
+</div>
 
 <br />
 
