@@ -117,6 +117,13 @@
   <h2>🐍 Contributions</h2>
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
   <br />
+  <div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
   <i>(Note: This 3D City graph will appear once the "GitHub-Profile-3D-Contrib" workflow runs)</i>
 </div>
 
