@@ -62,23 +62,33 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="100" alt="Frontend" />
+      <a href="https://github.com/Shahadat99x">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="100" alt="Frontend" />
+      </a>
       <br><b>Frontend</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="100" alt="Backend" />
+      <a href="https://github.com/Shahadat99x">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="100" alt="Backend" />
+      </a>
       <br><b>Backend</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" width="100" alt="Mobile" />
+      <a href="https://github.com/Shahadat99x">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" width="100" alt="Mobile" />
+      </a>
       <br><b>Mobile</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" width="100" alt="AI/ML" />
+      <a href="https://github.com/Shahadat99x">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" width="100" alt="AI/ML" />
+      </a>
       <br><b>AI / ML</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git,docker,vercel" width="100" alt="DevOps" />
+      <a href="https://github.com/Shahadat99x">
+        <img src="https://skillicons.dev/icons?i=git,docker,vercel" width="100" alt="DevOps" />
+      </a>
       <br><b>DevOps</b>
     </td>
   </tr>
