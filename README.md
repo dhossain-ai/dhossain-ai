@@ -81,6 +81,19 @@
 
 <br />
 
+
+<br />
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
+
 ## 📫 Connect
 
 > "Open to internships, part-time roles, and freelance projects."
