@@ -24,14 +24,26 @@
 
 <br />
 
+<br />
+
 <div align="center">
-  <a href="https://github.com/Shahadat99x">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahadat99x&show_icons=true&theme=nightowl&hide_border=true&title_color=0075FF&text_color=FFF&icon_color=0075FF&count_private=true&disable_animations=false" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Shahadat99x">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=nightowl&hide_border=true" height="150" alt="streak graph" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Shahadat99x">
+          <img src="https://github-readme-stats.vercel.app/api?username=Shahadat99x&show_icons=true&theme=nightowl&hide_border=true&count_private=true&disable_animations=false" height="160" alt="stats graph" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Shahadat99x">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=nightowl&hide_border=true" height="160" alt="streak graph" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br />
 
 <br />
 
@@ -71,6 +83,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://dhossian.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-dhossian.com-0075FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <br />
 
