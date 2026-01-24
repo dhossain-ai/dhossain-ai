@@ -112,3 +112,20 @@
     <img src="https://img.shields.io/badge/Instagram-@shahadathossainverified-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+<details>
+<summary>🛠 <b>How to Use This as Your Profile README</b></summary>
+<br />
+
+1.  **Create Profile Repo**: Create a new public repository named `Shahadat99x` (must match your username exactly).
+2.  **Copy Files**: Copy `README.md`, `/assets` folder, and `.github/workflows/snake.yml` into that repository.
+3.  **Snake Permissions**: 
+    - Go to Repo Settings > Actions > General > Workflow permissions.
+    - Select "Read and write permissions".
+    - Click Save.
+4.  **Push**: Commit and push the files.
+5.  **Output Branch**: The Snake workflow will run automatically (or manually dispatch it) and create an `output` branch. The README already links to images from that branch.
+
+</details>
