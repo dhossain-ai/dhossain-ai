@@ -36,8 +36,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Shahadat99x">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=nightowl&hide_border=true" height="160" alt="streak graph" />
-        </a>
+            <img src="https://streak-stats.demolab.com/?user=Shahadat99x&theme=nightowl&hide_border=true" height="160" alt="streak graph" />        </a>
       </td>
     </tr>
   </table>
