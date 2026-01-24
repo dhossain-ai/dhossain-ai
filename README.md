@@ -123,7 +123,7 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
-  <i>(Note: This 3D City graph will appear once the "GitHub-Profile-3D-Contrib" workflow runs)</i>
+
 </div>
 
 <br />
@@ -146,20 +146,3 @@
     <img src="https://img.shields.io/badge/Instagram-@shahadathossainverified-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
-
-<details>
-<summary>🛠 <b>How to Use This as Your Profile README</b></summary>
-<br />
-
-1.  **Create Profile Repo**: Create a new public repository named `Shahadat99x` (must match your username exactly).
-2.  **Copy Files**: Copy `README.md`, `/assets` folder, and `.github/workflows/snake.yml` into that repository.
-3.  **Snake Permissions**: 
-    - Go to Repo Settings > Actions > General > Workflow permissions.
-    - Select "Read and write permissions".
-    - Click Save.
-4.  **Push**: Commit and push the files.
-5.  **Output Branch**: The Snake workflow will run automatically (or manually dispatch it) and create an `output` branch. The README already links to images from that branch.
-
-</details>
