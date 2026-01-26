@@ -38,7 +38,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Shahadat99x">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat99x&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=7F7FD5&fire=7F7FD5&currStreakLabel=7F7FD5&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E" height="180" alt="GitHub Streak Stats" />
+          <img src="https://streak-stats.demolab.com/?user=Shahadat99x&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=7F7FD5&fire=7F7FD5&currStreakLabel=7F7FD5&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E" height="180" alt="GitHub Streak Stats" />
         </a>
       </td>
     </tr>
@@ -58,15 +58,63 @@
 
 <br />
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-| 🎯 **Project** | 📝 **Description** | 🔗 **Links** |
-|:---------------|:-------------------|:-------------|
-| **LexNova Legal Platform** | Web + admin dashboard + Android app for legal services. | [🌐 Live](https://lexnovaeu.xyz) • [💻 Code](https://github.com/Shahadat99x/lawfirm-pwa-platform) |
-| **EduFriends Global** | Multi-role education consultancy platform (web + Android). | [🌐 Live](https://edufriendsglobal.com) • [💻 Code](https://github.com/Shahadat99x/edufriends-global) |
-| **EstateNova** | Real estate listings + enquiry/lead capture platform. | [🌐 Live](https://estatenova.vercel.app) • [💻 Code](https://github.com/Shahadat99x/real-estate-lead-platform) |
+## 🚀 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="300">🎯 Project</th>
+      <th width="500">📝 Description</th>
+      <th width="200">🔗 Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>LexNova Legal Platform</b>
+        <br />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+      </td>
+      <td>Web + admin dashboard + Android app for legal services.</td>
+      <td align="center">
+        <a href="https://lexnovaeu.xyz">🌐 Live</a>
+        <br />
+        <a href="https://github.com/Shahadat99x/lawfirm-pwa-platform">💻 Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>EduFriends Global</b>
+        <br />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </td>
+      <td>Multi-role education consultancy platform (web + Android).</td>
+      <td align="center">
+        <a href="https://edufriendsglobal.com">🌐 Live</a>
+        <br />
+        <a href="https://github.com/Shahadat99x/edufriends-global">💻 Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>EstateNova</b>
+        <br />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </td>
+      <td>Real estate listings + enquiry/lead capture platform.</td>
+      <td align="center">
+        <a href="https://estatenova.vercel.app">🌐 Live</a>
+        <br />
+        <a href="https://github.com/Shahadat99x/real-estate-lead-platform">💻 Code</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -120,6 +168,65 @@
 <br />
 
 ---
+
+<br />
+
+## ⚡ What I'm Doing Now
+
+- 🎓 **BSc Applied AI** @ VILNIUS TECH (2023–Present)
+- 🔨 **Building:** Full-stack web & Android apps
+- 📚 **Learning:** AI/ML foundations in Python, Deep Learning
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahadat99x/Shahadat99x/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## 📫 Connect
+
+> "Open to internships, part-time roles, and freelance projects."
+
+<p align="left">
+  <a href="https://github.com/Shahadat99x">
+    <img src="https://img.shields.io/badge/GitHub-Shahadat99x-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/shahadat-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-shahadat--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/shahadat_ai">
+    <img src="https://img.shields.io/badge/X (Twitter)-@shahadat__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/shahadathossainverified/">
+    <img src="https://img.shields.io/badge/Instagram-@shahadathossainverified-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahadat99x&label=Profile%20Views&color=7F7FD5&style=flat-square" alt="Profile Views" />
