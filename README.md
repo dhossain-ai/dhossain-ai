@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Next-Gen+Web+%26+Mobile+Apps;AI%2FML+Enthusiast;Growing+into+AI%2FML+with+Python" alt="Typing SVG" />
@@ -33,19 +34,31 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Shahadat99x">
-          <img src="https://github-readme-stats.vercel.app/api?username=Shahadat99x&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7F7FD5&icon_color=7F7FD5&text_color=C9D1D9&border_color=30363D" height="180" alt="GitHub Stats" />
+          <img
+            src="https://dhossaingithub.vercel.app/api?username=Shahadat99x&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7F7FD5&icon_color=7F7FD5&text_color=C9D1D9&border_color=30363D&cache_seconds=86400"
+            height="180"
+            alt="GitHub Stats"
+          />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Shahadat99x">
-          <img src="https://streak-stats.demolab.com/?user=Shahadat99x&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=7F7FD5&fire=7F7FD5&currStreakLabel=7F7FD5&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E" height="180" alt="GitHub Streak Stats" />
+          <img
+            src="https://streak-stats.demolab.com/?user=Shahadat99x&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=7F7FD5&fire=7F7FD5&currStreakLabel=7F7FD5&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E&cache_seconds=86400"
+            height="180"
+            alt="GitHub Streak Stats"
+          />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/Shahadat99x">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadat99x&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&title_color=7F7FD5&text_color=C9D1D9&border_color=30363D&langs_count=8" height="180" alt="Top Languages" />
+          <img
+            src="https://dhossaingithub.vercel.app/api/top-langs/?username=Shahadat99x&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&title_color=7F7FD5&text_color=C9D1D9&border_color=30363D&langs_count=8&cache_seconds=86400"
+            height="180"
+            alt="Top Languages"
+          />
         </a>
       </td>
     </tr>
@@ -231,3 +244,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahadat99x&label=Profile%20Views&color=7F7FD5&style=flat-square" alt="Profile Views" />
 </div>
+```
