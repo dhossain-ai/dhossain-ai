@@ -1,7 +1,6 @@
-```md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Next-Gen+Web+%26+Mobile+Apps;AI%2FML+Enthusiast;Growing+into+AI%2FML+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7F7FD5&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Next.js+%7C+Flutter+%7C+TypeScript;Building+Web+Platforms+%26+Android+Apps;Growing+into+AI%2FML+with+Python" alt="Typing SVG" />
 
 <p align="center">
   Building web platforms, admin dashboards, and Flutter Android apps. Growing into AI/ML with Python.
@@ -24,8 +23,6 @@
 <br />
 
 ---
-
-<br />
 
 ## 📊 GitHub Stats
 
@@ -69,138 +66,116 @@
 
 ---
 
-<br />
-
-<div align="center">
-
 ## 🚀 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="300">🎯 Project</th>
-      <th width="500">📝 Description</th>
-      <th width="200">🔗 Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <b>LexNova Legal Platform</b>
-        <br />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-      </td>
-      <td>Web + admin dashboard + Android app for legal services.</td>
-      <td align="center">
-        <a href="https://lexnovaeu.xyz">🌐 Live</a>
-        <br />
-        <a href="https://github.com/Shahadat99x/lawfirm-pwa-platform">💻 Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>EduFriends Global</b>
-        <br />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      </td>
-      <td>Multi-role education consultancy platform (web + Android).</td>
-      <td align="center">
-        <a href="https://edufriendsglobal.com">🌐 Live</a>
-        <br />
-        <a href="https://github.com/Shahadat99x/edufriends-global">💻 Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>EstateNova</b>
-        <br />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </td>
-      <td>Real estate listings + enquiry/lead capture platform.</td>
-      <td align="center">
-        <a href="https://estatenova.vercel.app">🌐 Live</a>
-        <br />
-        <a href="https://github.com/Shahadat99x/real-estate-lead-platform">💻 Code</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th width="280">🎯 Project</th>
+        <th width="520">📝 Description</th>
+        <th width="180">🔗 Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <b>LexNova Legal Platform</b>
+          <br />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        </td>
+        <td>Web + admin dashboard + Android app for legal services.</td>
+        <td align="center">
+          <a href="https://lexnovaeu.xyz">🌐 Live</a>
+          <br />
+          <a href="https://github.com/Shahadat99x/lawfirm-pwa-platform">💻 Code</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <b>EduFriends Global</b>
+          <br />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        </td>
+        <td>Multi-role education consultancy platform (web + Android).</td>
+        <td align="center">
+          <a href="https://edufriendsglobal.com">🌐 Live</a>
+          <br />
+          <a href="https://github.com/Shahadat99x/edufriends-global">💻 Code</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <b>EstateNova</b>
+          <br />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+        </td>
+        <td>Real estate listings + enquiry/lead capture platform.</td>
+        <td align="center">
+          <a href="https://estatenova.vercel.app">🌐 Live</a>
+          <br />
+          <a href="https://github.com/Shahadat99x/real-estate-lead-platform">💻 Code</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <br />
 
 ---
-
-<br />
 
 ## 🛠 Tech Stack
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/Shahadat99x">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="100" alt="Frontend" />
-      </a>
-      <br><b>Frontend</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/Shahadat99x">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="100" alt="Backend" />
-      </a>
-      <br><b>Backend</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/Shahadat99x">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" width="100" alt="Mobile" />
-      </a>
-      <br><b>Mobile</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/Shahadat99x">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" width="100" alt="AI/ML" />
-      </a>
-      <br><b>AI / ML</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/Shahadat99x">
-        <img src="https://skillicons.dev/icons?i=git,docker,vercel" width="100" alt="DevOps" />
-      </a>
-      <br><b>DevOps</b>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="110" alt="Frontend" />
+        <br /><b>Frontend</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="110" alt="Backend" />
+        <br /><b>Backend</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" width="110" alt="Mobile" />
+        <br /><b>Mobile</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" width="110" alt="AI/ML" />
+        <br /><b>AI / ML</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=git,docker,vercel" width="110" alt="DevOps" />
+        <br /><b>DevOps</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 ---
 
-<br />
-
 ## ⚡ What I'm Doing Now
 
-- 🎓 **BSc Applied AI** @ VILNIUS TECH (2023–Present)
-- 🔨 **Building:** Full-stack web & Android apps
-- 📚 **Learning:** AI/ML foundations in Python, Deep Learning
+- 🎓 <b>BSc Applied AI</b> @ VILNIUS TECH (2023–Present)
+- 🔨 <b>Building:</b> Full-stack web & Android apps
+- 📚 <b>Learning:</b> AI/ML foundations in Python, Deep Learning
 
 <br />
 
 ---
 
-<br />
-
-<div align="center">
-
 ## 🐍 Contributions
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
 
 <br />
 
@@ -212,13 +187,9 @@
   </picture>
 </div>
 
-</div>
-
 <br />
 
 ---
-
-<br />
 
 ## 📫 Connect
 
@@ -232,7 +203,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-shahadat--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/shahadat_ai">
-    <img src="https://img.shields.io/badge/X (Twitter)-@shahadat__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@shahadat__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/shahadathossainverified/">
     <img src="https://img.shields.io/badge/Instagram-@shahadathossainverified-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -244,4 +215,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahadat99x&label=Profile%20Views&color=7F7FD5&style=flat-square" alt="Profile Views" />
 </div>
-```
