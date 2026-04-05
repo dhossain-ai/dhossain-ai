@@ -13,8 +13,8 @@
   <a href="https://linkedin.com/in/shahadat-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-shahadat--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mdshahadat196@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdshahadat196@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hello@dhossain.com">
+    <img src="https://img.shields.io/badge/Email-hello@dhossain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
