@@ -30,16 +30,16 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Shahadat99x">
+        <a href="https://github.com/dhossain-ai">
           <img
-            src="https://dhossaingithub.vercel.app/api?username=Shahadat99x&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7F7FD5&icon_color=7F7FD5&text_color=C9D1D9&border_color=30363D&cache_seconds=86400"
+            src="https://dhossaingithub.vercel.app/api?username=dhossain*ai&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7F7FD5&icon_color=7F7FD5&text_color=C9D1D9&border_color=30363D&cache_seconds=86400"
             height="180"
             alt="GitHub Stats"
           />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Shahadat99x">
+        <a href="https://github.com/dhossain-ai">
           <img
             src="https://streak-stats.demolab.com/?user=Shahadat99x&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=7F7FD5&fire=7F7FD5&currStreakLabel=7F7FD5&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E&cache_seconds=86400"
             height="180"
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://github.com/Shahadat99x">
+        <a href="https://github.com/dhossain-ai">
           <img
             src="https://dhossaingithub.vercel.app/api/top-langs/?username=Shahadat99x&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&title_color=7F7FD5&text_color=C9D1D9&border_color=30363D&langs_count=8&cache_seconds=86400"
             height="180"
@@ -89,7 +89,7 @@
         <td align="center">
           <a href="https://lexnovaeu.xyz">🌐 Live</a>
           <br />
-          <a href="https://github.com/Shahadat99x/lawfirm-pwa-platform">💻 Code</a>
+          <a href="https://github.com/dhossain-ai/lawfirm-pwa-platform">💻 Code</a>
         </td>
       </tr>
       <tr>
@@ -117,7 +117,7 @@
         <td align="center">
           <a href="https://estatenova.vercel.app">🌐 Live</a>
           <br />
-          <a href="https://github.com/Shahadat99x/real-estate-lead-platform">💻 Code</a>
+          <a href="https://github.com/dhossain-ai/real-estate-lead-platform">💻 Code</a>
         </td>
       </tr>
     </tbody>
@@ -196,7 +196,7 @@
 > "Open to internships, part-time roles, and freelance projects."
 
 <p align="left">
-  <a href="https://github.com/Shahadat99x">
+  <a href="https://github.com/dhossain-ai">
     <img src="https://img.shields.io/badge/GitHub-Shahadat99x-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/shahadat-ai">
